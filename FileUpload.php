@@ -8,6 +8,9 @@ enctype="multipart/form-data">
 <br />
 <input type="submit" name="submit" value="Submit" />
 </form>
+<?php
 
+//New php tag
+?>
 </body>
 </html>
