@@ -23,4 +23,8 @@ if (($_FILES['file']['type'] == 'image/gif')||($_FILES['file']['type'] == 'image
     }
 else
   echo "Invalid file";
+
+
+//dgbklndxklnszl;cvbkjdnv sdf
+//dfbsdfnbdfbdfbdf
 ?>
