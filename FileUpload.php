@@ -9,7 +9,7 @@ enctype="multipart/form-data">
 <input type="submit" name="submit" value="Submit" />
 </form>
 <?php
-
+echo "HI there how are you i am learning abt github and its repos";
 //New php tag
 ?>
 </body>
